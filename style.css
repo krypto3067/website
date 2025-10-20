@@ -1,0 +1,10 @@
+img{
+    width: 200px;
+}
+
+body {
+    text-align: center;
+    font-family: "Comic Sans MS";
+    background-color: rgb(55, 183, 87);
+    color: rgb(107, 35, 190);
+}
